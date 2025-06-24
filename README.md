@@ -1,4 +1,4 @@
-Here is a basic Car Rental System built using React.js. It includes:
+Here is a basic Car Rental System built using React.js. It includes Backend (Node.js + MongoDB):
 
 A list of cars available for rent
 
