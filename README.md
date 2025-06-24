@@ -6,6 +6,8 @@ Booking form for customers
 
 Basic state management (no backend yet)
 
-Sign UP , Login, Booking Car, Logout
+Features
+
+Sign UP, email, password, Login, Booking Car, Logout
 
 Deploy Link: https://ccrs-six.vercel.app/
